@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdbBase64", "PdbBase64.csproj", "{B2B31F49-3414-46DC-9947-8B0E61F8A120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B31F49-3414-46DC-9947-8B0E61F8A120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B31F49-3414-46DC-9947-8B0E61F8A120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B31F49-3414-46DC-9947-8B0E61F8A120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B31F49-3414-46DC-9947-8B0E61F8A120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {465D80CA-43DA-4347-9A7A-A929A8D726F3}
+	EndGlobalSection
+EndGlobal
